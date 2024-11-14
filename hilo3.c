@@ -2,6 +2,7 @@ public class MultiThreadExample implements Runnable {
     private String threadName;
 
     public MultiThreadExample(String threadName) {
+        
         this.threadName = threadName;
     }
 
