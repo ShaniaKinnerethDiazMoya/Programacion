@@ -7,6 +7,7 @@ int main(){
     una_variable ++;
 
     printf("%d", una_variable);
+    
 
     printf ("\n");
     system("pause");
