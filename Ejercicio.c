@@ -4,7 +4,6 @@ int main(){
     int otroNumero=4;
     
     printf("%d", unNumero + otroNumero);
-
     printf("\n");
     system ("pause");
     return 0;
